@@ -18,7 +18,7 @@
 
 * **Writeup：**  
 
-  解压得到一个文本，里面只有abcdefg七个字母，由LED联想到七段数码管，数字0-9，通过搜索(https://baike.baidu.com/item/%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%E7%AE%A1/927592)即可得到七段数码管的表示方法：
+  解压得到一个文本，里面只有abcdefg七个字母，由LED联想到七段数码管，数字0-9，通过搜索(https://baike.baidu.com/item/%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%E7%AE%A1/927592) 即可得到七段数码管的表示方法：
 
   ```python
   Tube={
